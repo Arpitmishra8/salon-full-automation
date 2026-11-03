@@ -1,0 +1,6 @@
+{
+  "name": "Aura Luxe Salon & Spa",
+  "description": "Complete Salon Booking, Customer Loyalty & Management System with online appointments, loyalty ledger rewards, POS checkout, staff schedules, and financial analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
